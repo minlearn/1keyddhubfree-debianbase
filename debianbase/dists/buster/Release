@@ -1,0 +1,31 @@
+Origin: Debian
+Label: Debian
+Suite: stable
+Version: 10.8
+Codename: buster
+Changelogs: http://metadata.ftp-master.debian.org/changelogs/@CHANGEPATH@_changelog
+Date: Sat, 06 Feb 2021 10:10:28 UTC
+Acquire-By-Hash: yes
+Architectures: amd64 arm64
+Components: main main-debian-installer
+Description: Debian 10.8 Released 06 February 2021
+
+MD5Sum:
+ 03c675cb165743fc72d704e6984d6abe 450868 main/binary-amd64/Packages
+ 9182c43eb71b702fa06a06aabb2e6cc8      116 main/binary-amd64/Release
+ 76a531627b479a78ebd8d222668e7a60 447987 main/binary-arm64/Packages
+ 14974d5ff6ab38680119718d89297c6d      116 main/binary-arm64/Release
+ e7b6b16dd043f9e9ca481bcfb4e5f9fe    52247 main-debian-installer/binary-amd64/Packages
+ 36e234e8f3bbbf707f6aa5d3fca28571      133 main-debian-installer/binary-amd64/Release
+ 6761b1cd4ead442af6924dfcfb6ea294    52136 main-debian-installer/binary-arm64/Packages
+ 9349d579b9c60384d2583740e1c71c8d      133 main-debian-installer/binary-arm64/Release
+
+SHA256:
+ b37392d92b136011837b28a681bcf79b679ba77de4b5773d2b3abbad653d6a1f 450868 main/binary-amd64/Packages
+ c7d76c7f95e90fa3e3b1e3c2f86276a792182139a7830cad3da78b940e66a81c      116 main/binary-amd64/Release
+ 6801e82416491a1637e8930eece3acb11cc30382961d57a1bea9f06d8b1fecb1 447987 main/binary-arm64/Packages
+ f820415ec2dda10ace869cde5fc41db35a6ac077b5ccb24da5517cc228058420      116 main/binary-arm64/Release
+ ec00fe64fe920e5a71da2a8aece7322d700586cbd40f147860ad278b401851bc    52247 main-debian-installer/binary-amd64/Packages
+ 43d5595829bc752977025c0479fe697dec612288cdd6dcbd1dcdcf41f0123882      133 main-debian-installer/binary-amd64/Release
+ d69d621c45b646d8d666b6dfeae68638b828ea8cb13260cc8dc6f940040130bb    52136 main-debian-installer/binary-arm64/Packages
+ 4fcbc5b2ac150e34c178091ce05210315e685ca27ff03fbd3df360e8d48bf1ca      133 main-debian-installer/binary-arm64/Release
