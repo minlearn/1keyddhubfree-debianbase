@@ -9817,6 +9817,26 @@ Size: 19924
 MD5sum: 9987383d91ee3ac83389c7d290f60937
 SHA256: f444889ad3441758e3a5092418e062da2b0c6a811fdb0c262a6b70cb2518dbde
 
+Package: net-tools
+Version: 1.60+git20181103.0eebece-1
+Installed-Size: 991
+Maintainer: net-tools Team <team+net-tools@tracker.debian.org>
+Architecture: amd64
+Depends: libc6 (>= 2.14), libselinux1 (>= 3.1~)
+Description: NET-3 networking toolkit
+Multi-Arch: foreign
+Homepage: http://sourceforge.net/projects/net-tools/
+Description-md5: 08f345ee19e62d4fd85e960d3a061a33
+Tag: admin::configuring, implemented-in::c, interface::commandline,
+ network::configuration, network::routing, network::vpn, protocol::ipv6,
+ role::program, scope::utility, use::routing
+Section: net
+Priority: optional
+Filename: dists/bullseye/main/binary-amd64/deb/net-tools_1.60+git20181103.0eebece-1_amd64.deb
+Size: 249736
+MD5sum: a15713d72bebafa6f25258530689bfca
+SHA256: f8e540f155850a53f348f9d691c16fd865a4bcaa1192b8233a821b5ce46d0dcd
+
 Package: nfs-common
 Source: nfs-utils
 Version: 1:1.3.4-6
